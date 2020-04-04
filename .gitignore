@@ -1,5 +1,4 @@
 
-patches/
 pkg/
 *.orig
 *.rej
